@@ -10,6 +10,8 @@
 
 ### O Trânsito Autônomo é um projeto que emprega tecnologias avançadas de inteligência artificial e aprendizado de máquina para criar um ambiente de tráfego autônomo seguro e eficiente. O sistema é projetado para coordenar a movimentação de veículos autônomos, garantindo a segurança dos ocupantes e dos demais usuários da via.
 
+https://github.com/caiquessantos/transito-autonomo/assets/106163735/beda1112-c7ee-4eb0-a1b2-9a5ea2b99e1f
+
 ## 🛠️ Funcionalidades 🛠️
 
 - Controle de Tráfego Autônomo: Utiliza algoritmos avançados para coordenar o movimento de veículos autônomos, otimizando o fluxo de tráfego.
